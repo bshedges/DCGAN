@@ -24,3 +24,4 @@ images_1/images_2/images_3/images_4
     We wanted to see if our DCGAN could trick human investigators, so we made a little game with these
     images to see who we could fool.
 
+The "Trained Neural Nets" folder contains two .h5 files which are pre-trained Neural Nets and can be used immediately.
